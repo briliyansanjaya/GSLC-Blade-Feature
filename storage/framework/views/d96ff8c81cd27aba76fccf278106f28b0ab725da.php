@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\GSLC-ValorantAgents\resources\views/components/footer.blade.php ENDPATH**/ ?>
